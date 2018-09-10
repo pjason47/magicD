@@ -1,0 +1,4 @@
+node_modules/
+test/
+i18n.config.json
+/i18n
